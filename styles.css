@@ -19,13 +19,13 @@ body {
 
 #choice {
   display: flex;
-  justify-content: center;  
+  justify-content: center;
 } */
 
 #rock, #paper, #scissors{
   /* margin: 30px; */
   width: 155px;
-  height: 40px;    
+  height: 40px;
   padding: 6px;
   margin: 20px;
   border: 2px solid;
